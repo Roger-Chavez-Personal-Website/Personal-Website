@@ -76,6 +76,12 @@ p {
     background-color: rgb(255,255,255);
     
 }
-    
 
-]
+/*end of base style*/
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    background-color: yellow;
+    padding: 10px;
+}
